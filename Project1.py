@@ -12,3 +12,6 @@ for i in range(len(a1)):
     for j in range(i + 1, len(a1)):
         if a1[i] == a1[j]:
             print(a1[i])
+            aawgdvaj
+
+print('@#@#@#')
